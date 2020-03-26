@@ -1,3 +1,4 @@
+
 class Stack
   def push(e)
     @top = Node.new(e, @top)
